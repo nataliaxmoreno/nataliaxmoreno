@@ -5,7 +5,7 @@ I'm an aspiring data analyst trained at Penn university Data Analytics and visua
 
 👯 I’m looking to collaborate on data analysis, machine learning and visualisation projects
 
-Connect with me on LinkedIn!
+Connect with me on LinkedIn! https://www.linkedin.com/in/nataliax-moreno
 
 ### some of the languages Im learning:
 
