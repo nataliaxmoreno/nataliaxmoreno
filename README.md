@@ -18,4 +18,4 @@ Connect with me on [LinkedIn!](https://www.linkedin.com/in/nataliax-moreno)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaxmoreno&show_icons=true&theme=solarized-light)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaxmoreno&hide=Jupyter_Notebook&layout=compact&show_icons=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaxmoreno&hide=Jupyter%20Notebook&layout=compact&show_icons=true&theme=solarized-light)
