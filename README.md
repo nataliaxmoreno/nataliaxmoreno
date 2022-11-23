@@ -16,6 +16,4 @@ Connect with me on [LinkedIn!](https://www.linkedin.com/in/nataliax-moreno)
 [![My Skills](https://skillicons.dev/icons?i=d3,flask,mongodb,mysql,postgres,vscode)](https://skillicons.dev)
 ## some of my stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaxmoreno&show_icons=true&theme=solarized-light)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaxmoreno&hide=Jupyter%20Notebook&layout=compact&show_icons=true&theme=solarized-light)
