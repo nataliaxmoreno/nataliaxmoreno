@@ -1,5 +1,5 @@
 # Hi, I'm Natalia! 👋🏼 👩🏽‍💻:earth_americas:
-I'm an aspiring data analyst trained at Penn university Data Analytics and visualization bootcamp.
+I'm a data analyst trained at Penn university Data Analytics and visualization bootcamp.
 
 🔭 I’m currently working on improving my data analysis and machine learning skills
 
