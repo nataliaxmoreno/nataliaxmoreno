@@ -5,7 +5,8 @@ I'm a data analyst trained at Penn university Data Analytics and visualization b
 
 👯 I’m looking to collaborate on data analysis, machine learning and visualisation projects
 
-Connect with me on [LinkedIn!](https://www.linkedin.com/in/nataliax-moreno)
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/nataliax-moreno) 
+check my visualizations on [Tableau!](https://public.tableau.com/app/profile/natalia.moreno7435)
 
 ### some of the languages Im learning:
 
